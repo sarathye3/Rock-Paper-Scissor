@@ -5,14 +5,6 @@
   --white-color:#ffffff;
   --blue-color:#1c2042;
 }
-
-*,
-*:before'
-*:after{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-}
 html{
     font-size: 16px;
 }
@@ -51,4 +43,40 @@ header{
     font-weight: 500;
     font-size: 1.5 rem;
     line-height: 1.5 rem;
+}
+.scores p span{
+    font-weight: 900;
+}
+.tools{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.tools button{
+    background-color: var(--purple-color);
+    color: #ffffff;
+    border: none;
+    font-size: 60px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    outline: none;
+}
+.details{
+    margin-top: 30px;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+#result{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:green;
+    border-radius: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 250px;
+    font-weight: 800;
+    font-size: x-large;
 }
