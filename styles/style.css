@@ -83,3 +83,19 @@ span{
     
     font-weight: 500;
 }
+@media(max-width:700px){
+    body{
+        min-width:100%;
+    }
+    .container{
+        width: 90%;
+        min-width: 10rem;
+    }
+    .tools button{
+        margin-right:25px ;
+        outline: none;
+    }
+    .tools button#lastButton{
+        margin-right:0px ;
+    }
+}
