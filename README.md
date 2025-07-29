@@ -4,7 +4,7 @@ A classic implementation of the timeless Rock Paper Scissors game built with mod
 
 ## 🚀 Demo
 
-[Live Demo]([https://your-username.github.io/Rock-Paper-Scissor/](https://sarathye3.github.io/Rock-Paper-Scissor/)) *(Update with your GitHub Pages URL)*
+[Live Demo](https://sarathye3.github.io/Rock-Paper-Scissor/) *(Update with your GitHub Pages URL)*
 
 ## 📸 Screenshots
 
